@@ -1,0 +1,22 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "A Jest + npm lab session",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robski10/Assignment5.git#main"
+  },
+  "author": "Robski10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robski10/Assignment5/issues"
+  },
+  "homepage": "https://github.com/Robski10/Assignment5/tree/main#readme"
+}
