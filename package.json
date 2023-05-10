@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Robski10/Assignment5/issues"
   },
-  "homepage": "https://github.com/Robski10/Assignment5/tree/main#readme"
+  "homepage": "https://github.com/Robski10/Assignment5/tree/main#readme",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
 }
